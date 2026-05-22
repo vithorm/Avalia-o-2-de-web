@@ -1,0 +1,6 @@
+{
+  "name": "Universidade Franciscana",
+  "description": "Site institucional e portal acadêmico da Universidade Franciscana (UFN) de Santa Maria - RS, contendo cadastro de alunos, professores, contato e cursos ofertados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
